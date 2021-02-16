@@ -1,0 +1,6 @@
+Nice, you figured out how to get root on shellbot!
+
+This is the easy part. I've given you a few ways to get root on here :)
+Now, how do you get out of here? 
+
+FLAG_02_GOT_SHELLBOT_ROOT

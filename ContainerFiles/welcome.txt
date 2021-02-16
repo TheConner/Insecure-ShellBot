@@ -1,0 +1,25 @@
+
+ .::::::.   ::   .: .,::::::   :::      :::     :::::::.      ...   ::::::::::::
+;;;`    `  ,;;   ;;,;;;;''''   ;;;      ;;;      ;;;'';;'  .;;;;;;;.;;;;;;;;''''
+'[==/[[[[,,[[[,,,[[[ [[cccc    [[[      [[[      [[[__[[\.,[[     \[[,   [[     
+  '''    $"$$$"""$$$ $$""""    $$'      $$'      $$""""Y$$$$$,     $$$   $$     
+ 88b    dP 888   "88o888oo,__ o88oo,.__o88oo,.___88o,,od8P"888,_ _,88P   88,    
+  "YMmMY"  MMM    YMM""""YUMMM""""YUMMM""""YUMMM""YUMMMP"   "YMMMMMP"    MMM    
+
+Welcome to ShellBot! Some information:
+
+1/ If you get a check mark reaction on your message, the command executed 
+successfully but there was no output. Likewise, if you get a X reaction on your
+message the command failed and made no output. If you execute a command that runs
+longer than 30 seconds, you will get a clock emoji reaction indicating a timeout.
+
+Everything you type in gets safely transported to a bash shell in a container.
+You can *try* to get around how I "safely" transport user input into the 
+container; however, I doubt that's possible.
+
+This container is fairly locked down; however, if you find that it's too 
+restrictive I can enable things like network support and other stuff.
+
+Have fun :)
+
+~ Netwinder

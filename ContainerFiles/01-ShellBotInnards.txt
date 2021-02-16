@@ -1,0 +1,11 @@
+Hello again!
+
+ShellBot is a fancy docker wrapper. In essence, all of your commands get 
+sent to a docker container that ShellBot manages by doing this:
+
+    docker exec -t (the container) sh -c "(your command)"
+
+I know what you're thinking: "Oh, I can just escape some quotes and execute
+whatever I want!" but sadly no, this is not the case :( that's too easy!
+
+~ Netwinder
